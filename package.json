@@ -1,7 +1,7 @@
 {
   "name": "sf-azure-wiki",
   "description": "A plugin to run in your Azure Pipeline to auto document Apex classes and Flows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@oclif/core": "^4",
     "@salesforce/core": "^8",
